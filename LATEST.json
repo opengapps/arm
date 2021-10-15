@@ -1,6 +1,6 @@
 {
   "arch": "arm",
-  "date": "20211014",
+  "date": "20211015",
   "assets": [
     { "api": "4.4", "variants": ["pico", "nano"]},
     { "api": "5.0", "variants": ["pico", "nano"]},
